@@ -1,0 +1,1 @@
+ave.o: ave.cpp

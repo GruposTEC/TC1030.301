@@ -8,7 +8,7 @@ CXXFLAGS = -g -std=c++11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = poli
+APPNAME = ave
 EXT = .cpp
 SRCDIR = .
 OBJDIR = .
