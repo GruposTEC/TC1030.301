@@ -1,0 +1,1 @@
+referenia.o: referenia.cpp
